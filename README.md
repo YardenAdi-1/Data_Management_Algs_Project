@@ -26,4 +26,3 @@ We use data from the [**Predicting Student Dropout and Academic Success**](https
 - `results.csv`: Stores the estimated ATE values along with the bootstrap confidence intervals for different configurations.
 - `report.tex`: Final project report summarizing findings.
 
----
