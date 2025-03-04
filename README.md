@@ -1,4 +1,4 @@
-# **The Effect of Data Preprocessing Design Choices on Estimated Treatment Effects: A Case Study on Academic Success**
+# **The Effect of Design Choices in Data Preprocessing on Estimated Treatment Effects: A Case Study on Academic Success**
 
 This project investigates how **data preprocessing design choices** impact the **Estimated Treatment Effect (ETE)** in causal inference. Using a **case study on academic success**, we analyze how different **age thresholds for adulthood** and **definitions of academic success** affect the **Average Treatment Effect (ATE)** estimation.
 
