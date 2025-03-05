@@ -1,0 +1,31 @@
+Age Threshold,Outcome Type,Model,ATE,CI Lower,CI Upper
+20,strict,S-Learner,-0.0807,-0.1121,-0.0487
+20,strict,T-Learner,-0.0962,-0.1417,-0.0656
+20,strict,IPW,-0.0586,-0.0784,-0.0364
+20,strict,PSM,-0.1425,-0.2059,0.1729
+20,strict,Doubly Robust,-0.0995,-0.1829,-0.0568
+20,inclusive,S-Learner,-0.072,-0.0963,-0.0449
+20,inclusive,T-Learner,-0.0765,-0.127,-0.0501
+20,inclusive,IPW,-0.0278,-0.0533,-0.007
+20,inclusive,PSM,-0.1362,-0.1958,0.1532
+20,inclusive,Doubly Robust,-0.0632,-0.1345,-0.0291
+21,strict,S-Learner,-0.1134,-0.1477,-0.0819
+21,strict,T-Learner,-0.1288,-0.1764,-0.0999
+21,strict,IPW,-0.2056,-0.2248,-0.1829
+21,strict,PSM,-0.1971,-0.3021,0.0902
+21,strict,Doubly Robust,-0.1472,-0.2226,-0.1064
+21,inclusive,S-Learner,-0.1378,-0.1635,-0.1009
+21,inclusive,T-Learner,-0.1462,-0.1827,-0.1091
+21,inclusive,IPW,-0.2404,-0.2624,-0.2156
+21,inclusive,PSM,-0.098,-0.297,0.0567
+21,inclusive,Doubly Robust,-0.1238,-0.1753,-0.0744
+23,strict,S-Learner,-0.1598,-0.1946,-0.1203
+23,strict,T-Learner,-0.202,-0.2473,-0.1602
+23,strict,IPW,-0.3127,-0.329,-0.2903
+23,strict,PSM,-0.2538,-0.4418,-0.0502
+23,strict,Doubly Robust,-0.2602,-0.3346,-0.1983
+23,inclusive,S-Learner,-0.1825,-0.2166,-0.1434
+23,inclusive,T-Learner,-0.211,-0.2563,-0.1723
+23,inclusive,IPW,-0.3961,-0.4141,-0.3707
+23,inclusive,PSM,-0.2633,-0.4181,-0.013
+23,inclusive,Doubly Robust,-0.2356,-0.3188,-0.1666
